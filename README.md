@@ -45,11 +45,11 @@ Bitcoin is often described as "digital gold", a hedge that holds up when traditi
 
 ### Price history
 
-![Prices](images/prices.png)
+![Prices](prices.png)
 
 ### Daily returns
 
-![Returns](images/returns.png)
+![Returns](returns.png)
 
 Bitcoin is far more volatile than either benchmark:
 
@@ -62,7 +62,7 @@ Bitcoin is far more volatile than either benchmark:
 
 ### Full-sample correlation of daily returns
 
-![Correlation matrix](images/correlation_matrix.png)
+![Correlation matrix](correlation_matrix.png)
 
 | | BTC | S&P 500 | Gold |
 |---|---|---|---|
@@ -72,7 +72,7 @@ Bitcoin is far more volatile than either benchmark:
 
 ### Correlation by geopolitical-risk regime
 
-![GPR regimes](images/gpr_regimes.png)
+![GPR regimes](gpr_regimes.png)
 
 | Pair | High GPR | Low GPR |
 |---|---|---|
