@@ -143,8 +143,8 @@ OLS of daily BTC returns on S&P 500 returns, gold returns, unemployment rate and
 ## How to Run
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/LewisBennett05/Personal-Project.git
+cd Personal-Project
 pip install yfinance pandas matplotlib seaborn statsmodels xlrd openpyxl
 ```
 
@@ -170,4 +170,4 @@ python PersonalProject.py
 
 ## Author
 
-<Your name> · [LinkedIn](https://linkedin.com/in/<your-profile>) · <email>
+Lewis Bennett · [LinkedIn](https://www.linkedin.com/in/lewis-bennett-914290216/)
