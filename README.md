@@ -157,15 +157,22 @@ python PersonalProject.py
 ## Repository Structure
 
 ```
-├── PersonalProject.py
-├── UNRATE.csv
-├── data_gpr_export.xls
+Personal-Project/
+│
+├── README.md
+│
+├── data/
+│   ├── UNRATE.csv
+│   └── data_gpr_export.xls
+│
 ├── figures/
-│   ├── prices.png
-│   ├── returns.png
 │   ├── correlation_matrix.png
-│   └── gpr_regimes.png
-└── README.md
+│   ├── gpr_regimes.png
+│   ├── prices.png
+│   └── returns.png
+│
+└── src/
+    └── PersonalProject.py
 ```
 
 ## Author
