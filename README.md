@@ -45,11 +45,11 @@ Bitcoin is often described as "digital gold", a hedge that holds up when traditi
 
 ### Price history
 
-![Prices](prices.png)
+![Prices](figures/prices.png)
 
 ### Daily returns
 
-![Returns](returns.png)
+![Returns](figures/returns.png)
 
 Bitcoin is far more volatile than either benchmark:
 
