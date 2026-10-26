@@ -62,7 +62,7 @@ Bitcoin is far more volatile than either benchmark:
 
 ### Full-sample correlation of daily returns
 
-![Correlation matrix](correlation_matrix.png)
+![Correlation matrix](figures/correlation_matrix.png)
 
 | | BTC | S&P 500 | Gold |
 |---|---|---|---|
@@ -72,7 +72,7 @@ Bitcoin is far more volatile than either benchmark:
 
 ### Correlation by geopolitical-risk regime
 
-![GPR regimes](gpr_regimes.png)
+![GPR regimes](figures/gpr_regimes.png)
 
 | Pair | High GPR | Low GPR |
 |---|---|---|
@@ -160,7 +160,7 @@ python PersonalProject.py
 ├── PersonalProject.py
 ├── UNRATE.csv
 ├── data_gpr_export.xls
-├── images/
+├── figures/
 │   ├── prices.png
 │   ├── returns.png
 │   ├── correlation_matrix.png
